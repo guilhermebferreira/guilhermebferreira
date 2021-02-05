@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Guilherme Ferreira</h1>
 <h3 align="center">A passionate full-stack developer from Brazil :brazil:</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guilhermebferreira" alt="guilhermebferreira" /></a> </p>
 
 - 🔭 I’m currently working with **Django, Django Rest Framework and Vue.js**
 
