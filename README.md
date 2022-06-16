@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there 👋, I'm Guilherme Ferreira</h1>
 <h3 align="left">A passionate full-stack developer from Brazil :technologist:</h3>
-<h3 align="left">An enthusiastic traveler :airplane: and digital nomad :earth_americas:</h3>
+<h3 align="left">An enthusiastic traveler :airplane: :earth_americas:</h3>
 
 
 - 🔭 I’m currently working with **Django, Django Rest Framework and Vue.js**
@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/comoviajante" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="comoviajante" height="30" width="40" /></a>
-<a href="https://twitter.com/guilh_rm_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="guilh_rm_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/guilherme-ferreira-dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="guilherme-ferreira-dev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/1698509" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="1698509" height="30" width="40" /></a>
 <a href="https://instagram.com/guilh_rm_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="guilh_rm_" height="30" width="40" /></a>
