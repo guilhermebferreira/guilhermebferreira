@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Laravel, Django and Vue.js**
 
-- 📄 Know about my experiences [https://guilhermebferreira.github.io/](https://guilhermebferreira.github.io/)
+- 📄 Know about my experiences https://www.linkedin.com/in/guilherme-ferreira-dev/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
